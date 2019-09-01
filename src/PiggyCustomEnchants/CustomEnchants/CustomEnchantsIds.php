@@ -35,6 +35,7 @@ class CustomEnchantsIds
     const BACKSTAB = 122;
     const LIGHTNING = 123;
     const TEST = 124;
+    const HELLO = 125;
 
     //TOOLS
     const EXPLOSIVE = 200; //Not accurate
