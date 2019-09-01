@@ -104,6 +104,7 @@ class CustomEnchantsIds
     const MEDITATION = 602;
     const FOCUSED = 603;
     const ANTITOXIN = 604;
+    const HACK = 605;
 
     //CHESTPLATE
     const PARACHUTE = 800;
